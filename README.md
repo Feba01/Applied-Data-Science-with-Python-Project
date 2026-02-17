@@ -1,14 +1,6 @@
 **Marketing Campaign Analysis (Python • EDA • Hypothesis Testing)**
 
-A practical, end-to-end exploratory data analysis project on a marketing campaign customer dataset. The goal is to **clean and prepare real-world customer data**, engineer useful features, explore relationships across demographics + purchase behavior, and **validate business hypotheses with statistical tests**.
-
-
-
-**Repository Contents**
-- **Notebook:** `Python for applied data science project_Marketing Campaign.ipynb` (main analysis)
-- **Data (expected):** `marketing_data.csv` (place in the project root or update the path in the notebook)
-- **Output (optional):** `updated_marketing_data_3.csv` (cleaned/encoded dataset export)
-
+A practical, end-to-end exploratory data analysis project on a marketing campaign customer dataset. The goal is to **clean and prepare real-world customer data**, engineer useful features, explore relationships across demographics + purchase behavior, and **validate business hypotheses with statistical tests**
 
 
 **Dataset Overview**
